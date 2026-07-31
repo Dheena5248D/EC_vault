@@ -23,7 +23,7 @@ PASSWORD           |Ã     '?Ø¾rê bÒE  ¡=CÐ}Ø ¥   <á é WéC
 
 
 
-# configurations
+# configuration[]()s
 ## collection
 This table holds the data of configurations (manual deployment / APD)
 
@@ -64,7 +64,7 @@ db_updated_time      |1773034393364|
 This table holds whether a system require reboot or not 
 ```table
 Name             |Value        |
------------------+-------------+
+-----------------+-------------+git
 resource_id      |1202         |
 reboot_req_status|false        |
 reboot_req_reason|--           |
