@@ -23,7 +23,7 @@ PASSWORD           |Ã     '?Ø¾rê bÒE  ¡=CÐ}Ø ¥   <á é WéC
 
 
 
-# configuration[]()s
+# configurations
 ## collection
 This table holds the data of configurations (manual deployment / APD)
 
