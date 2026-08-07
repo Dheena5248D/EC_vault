@@ -70,3 +70,7 @@ reboot_req_status|false        |
 reboot_req_reason|--           |
 db_updated_time  |1783575913796|
 ```
+
+
+
+# customertopatchstatus
