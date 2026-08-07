@@ -74,3 +74,5 @@ db_updated_time  |1783575913796|
 
 
 # customertopatchstatus
+
+This table has the entires of patch status as well as approvied time and declined rime
